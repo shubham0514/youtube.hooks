@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<h3 style="color:red;">Feel free to checkout my app</h3>
+<h2><a href="https://youtube-mu-nine.vercel.app/">Feel free to checkout my app</a></h2>
 
 ## Available Scripts
 
