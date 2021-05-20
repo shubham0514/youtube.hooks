@@ -1,6 +1,6 @@
 
 
-<h3><a href="https://youtube-mu-nine.vercel.app/">Feel free to checkout my app</a></h3>
+<h3>💡<a href="https://youtube-mu-nine.vercel.app/">Feel free to checkout my app</a>💡</h3>
 
 ## Available Scripts
 
